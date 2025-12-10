@@ -1,0 +1,17 @@
+git status
+git status
+git add origincommand.txt
+git status
+git commit -m "origincommand"
+git status
+git remote -v
+git push origin master
+
+ dir
+history
+git remote add origin https://github.com/rg24630/Github-workshop.git
+git remote  -v
+git push origin master
+git remote set-url origin https://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@github.com/rg24630/Github-workshop... 
+git remote -v
+git push origin master
